@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 I've made my way in programming studying and them teaching Pascal and Python.
 
+![pnegg.png](https://github.com/xfiendx4life/xfiendx4life/blob/main/pngegg.png)
 ### Golang
 __For the last 2 years I'm passionate about golang__.
 To improve my skills I entered a tution where I developed a lot of projects:
