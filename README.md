@@ -41,3 +41,4 @@ __While diving into Python I made:__
 * [Interactive schedule board](https://github.com/xfiendx4life/schedulesite) for school students in Volgograd region, Russia (still in use in couple schools there)
 * [Telegram bot for the school schedule](https://github.com/xfiendx4life/schedulebot) with the same API used in the interactive board project ☝️
 * A system to apply for entry exams in one of Moscow schools (project is private and still in use)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xfiendx4life)](https://github.com/anuraghazra/github-readme-stats)
