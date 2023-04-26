@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to participate in Go projects to upgrade my programming skills and learn more about building fast and flexible services
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: telegram: https://t.me/xfiendx4life email: xfiendx4life@gmail.com and [LinkedIn](https://www.linkedin.com/in/xfiendx4life/)
+- 📫 How to reach me: [Telegram](https://t.me/xfiendx4life) [email](mailto:xfiendx4life@gmail.com) and [LinkedIn](https://www.linkedin.com/in/xfiendx4life/)
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I was working as a teacher of Computer Science for 12 years.
 
