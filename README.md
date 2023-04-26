@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my way to become a Go developer
+- 🔭 I’m currently working on my way to become a skilled Go developer
 - 🌱 I’m now learning Golang and ways to create microservices using Golang and different tools
 - 👯 I’m looking to participate in Go projects to upgrade my programming skills and learn more about building fast and flexible services
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: telegram: https://t.me/xfiendx4life email: xfiendx4life@gmail.com
+- 📫 How to reach me: telegram: https://t.me/xfiendx4life email: xfiendx4life@gmail.com and [LinkedIn](https://www.linkedin.com/in/xfiendx4life/)
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I've been working as a teacher for 12 years and I want it to stop...
+- ⚡ Fun fact: I was working as a teacher of Computer Science for 12 years.
 
 I've made my way in programming studying and then teaching Pascal and Python.
 
