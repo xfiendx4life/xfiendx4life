@@ -19,7 +19,7 @@ I've made my way in programming studying and then teaching Pascal and Python.
 ![pnegg.png](./go.png)
 ### Golang
 __Since 2020 I've been passionate about golang__.
-To apply to different companies I make test applications:
+To apply to different companies I made a number of test assignments these are a few of them:
 * [This one made me lucky to find my first developer position](https://github.com/xfiendx4life/pony_test) this is a MQTT information parser.
 * [The second one brought me to the interview, but...](https://github.com/xfiendx4life/media_tel_test) this one is an API to work with social graph
 
