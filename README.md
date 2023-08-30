@@ -18,7 +18,10 @@ I've made my way in programming studying and then teaching Pascal and Python.
 
 ![pnegg.png](./go.png)
 ### Golang
-__For the last 2 years I've been passionate about golang__.
+__Since 2020 I've been passionate about golang__.
+To apply to different companies I make test applications:
+* [This one made me lucky to find my first developer position](https://github.com/xfiendx4life/pony_test) this is a MQTT information parser.
+* [The second one brought me to the interview, but...](https://github.com/xfiendx4life/media_tel_test) this one is an API to work with social graph
 
 To improve my skills I entered a tution where I made a number of projects:
 * [CLI for quering csv file with SQL statements](https://github.com/xfiendx4life/gb_go_best_final) which included:
