@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on my way to become a skilled Go developer
-- 🌱 I’m now learning Golang and ways to create microservices using Golang and different tools
+- 🌱 I’m now using Golang to create microservices using and different tools
 - 👯 I’m looking to participate in Go projects to upgrade my programming skills and learn more about building fast and flexible services
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
