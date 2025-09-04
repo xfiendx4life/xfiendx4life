@@ -1,15 +1,5 @@
 ## Hi there, my name is Kirill👋
 
-<!--
-**xfiendx4life/xfiendx4life** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on my way to become a skilled Go developer
-- 🌱 I’m now using Golang to create microservices using and different tools
-- 👯 I’m looking to participate in Go projects to upgrade my programming skills and learn more about building fast and flexible services
-<!-- - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
 - 📫 How to reach me: [Telegram](https://t.me/xfiendx4life) [email](mailto:xfiendx4life@gmail.com) and [LinkedIn](https://www.linkedin.com/in/xfiendx4life/)
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I was working as a teacher of Computer Science for 12 years.
